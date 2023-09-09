@@ -18,6 +18,10 @@ Avec une interface facile d'utilisation :
 
 - Enfin le bouton `Générer`, pour générer le romfs !
 
+
+## Comment le télécharger ?
+
+Tu peux le télécharger [ici](https://github.com/NX-GoldJust/BuildRomfs/releases)
 # Build Romfs (English)
 
 ## What is it?
@@ -35,3 +39,8 @@ The romfs builder allows you to create a background for your album (hb-menu). It
 - Finally, click the "Choose an Image" button to select the background image for the HB-Menu.
 
 - Lastly, hit the "Generate" button to create the romfs!
+
+
+## How to download it ?
+
+You can download it [here](https://github.com/NX-GoldJust/BuildRomfs/releases)
