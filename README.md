@@ -18,7 +18,20 @@ Avec une interface facile d'utilisation :
 
 - Enfin le bouton `Générer`, pour générer le romfs !
 
-## Comment l'installer ?
-
-
 # Build Romfs (English)
+
+## What is it?
+
+The romfs builder allows you to create a background for your album (hb-menu). It comes with an easy-to-use interface:
+
+![alt text](https://github.com/NX-GoldJust/BuildRomfs/blob/main/images/image1.png?raw=true)
+
+- In the first field, you can give the theme a name.
+- In the second field, enter the author's name for this theme.
+- In the third field, specify the romfs version (Default: `1.0.0`).
+- Use the "Choose Color" button to select the text color for the Hb-Menu.
+- Utilize the selector to choose the Homebrew size.
+- Use the "Choose an Icon" button to select the icon that will be displayed in the theme selection of the HB-Menu.
+- Finally, click the "Choose an Image" button to select the background image for the HB-Menu.
+
+- Lastly, hit the "Generate" button to create the romfs!
