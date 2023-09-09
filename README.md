@@ -24,7 +24,7 @@ Avec une interface facile d'utilisation :
 
 The romfs builder allows you to create a background for your album (hb-menu). It comes with an easy-to-use interface:
 
-![alt text](https://github.com/NX-GoldJust/BuildRomfs/blob/main/images/image1.png?raw=true)
+![alt text](https://github.com/NX-GoldJust/BuildRomfs/blob/main/images/image2.png?raw=true)
 
 - In the first field, you can give the theme a name.
 - In the second field, enter the author's name for this theme.
